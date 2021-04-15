@@ -1,0 +1,5 @@
+streamlit
+alpha_vantage.timeseries
+pandas
+plotly.express
+altair
